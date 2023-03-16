@@ -1,0 +1,9 @@
+color                       width               display
+background                  height              position
+font-family                 line-height         z-index
+font-size                   background-image    transform
+text-align                  box-shadow          transition
+margin                      cursor              line-height
+padding                     overflow            hover
+border                      list-style-type     focus    
+border-radius               opacity
