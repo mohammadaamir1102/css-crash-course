@@ -1,4 +1,17 @@
-h1{
-    color: white;
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.colBacColFontFam {
+    color: black;
     background-color: aqua;
+}
+
+.aamirFontSize {
+    font-size:50px;
+}
+
+.aamirTextAlign {
+    font-size: 15px;
+    text-align: center;
 }
